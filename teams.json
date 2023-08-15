@@ -1,0 +1,109 @@
+{
+    "equipos": [
+        {
+            "id": 1,
+            "nombre": "Red bull Racing",
+            "auto": "https://media.formula1.com/content/dam/fom-website/sutton/2023/Bahrain/Saturday/1471177991.jpg.img.1024.medium.jpg/1677934298028.jpg",
+            "puntos": 503.5,
+            "brandLogo": "https://media.formula1.com/content/dam/fom-website/teams/2023/red-bull-racing-logo.png.transform/2col/image.png",
+            "pilotos": [
+                {
+                    "id": 1,
+                    "nombre": "Max Verstappen",
+                    "edad": 23,
+                    "nacionalidad": "Holandesa"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Sergio Pérez",
+                    "edad": 31,
+                    "nacionalidad": "Mexicana"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Mercedes",
+            "auto": "https://media.formula1.com/content/dam/fom-website/sutton/2023/Bahrain/Saturday/1471192581.jpg.img.1024.medium.jpg/1677938365818.jpg",
+            "puntos": 247,
+            "brandLogo": "https://media.formula1.com/content/dam/fom-website/teams/2023/mercedes-logo.png.transform/2col/image.png",
+            "pilotos": [
+                {
+                    "id": 3,
+                    "nombre": "Lewis Hamilton",
+                    "edad": 36,
+                    "nacionalidad": "Británica"
+                },
+                {
+                    "id": 4,
+                    "nombre": "George Russell",
+                    "edad": 25,
+                    "nacionalidad": "Británica"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Aston Martin",
+            "auto": "https://media.formula1.com/content/dam/fom-website/sutton/2023/BahrainTesting/Friday/1469140488.jpg.img.1024.medium.jpg/1677237704736.jpg",
+            "puntos": 196,
+            "brandLogo": "https://media.formula1.com/content/dam/fom-website/teams/2023/aston-martin-logo.png.transform/2col/image.png",
+            "pilotos": [
+                {
+                    "id": 5,
+                    "nombre": "Lance Stroll",
+                    "edad": 24,
+                    "nacionalidad": "Canadiense"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Daniel Ricciardo",
+                    "edad": 42,
+                    "nacionalidad": "Española"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Ferrari",
+            "auto": "https://media.formula1.com/content/dam/fom-website/sutton/2023/Bahrain/Saturday/1471179659.jpg.img.1024.medium.jpg/1677934964536.jpg",
+            "puntos": 191,
+            "brandLogo": "https://media.formula1.com/content/dam/fom-website/teams/2023/ferrari-logo.png.transform/2col/image.png",
+            "pilotos": [
+                {
+                    "id": 7,
+                    "nombre": "Carlos Sainz",
+                    "edad": 27,
+                    "nacionalidad": "Española"
+                },
+                {
+                    "id": 8,
+                    "nombre": "Charles Leclerc",
+                    "edad": 24,
+                    "nacionalidad": "Monegasca"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "McLaren",
+            "auto": "https://media.formula1.com/content/dam/fom-website/sutton/2023/Bahrain/Friday/1471006874.jpg.img.1024.medium.jpg/1677867384795.jpg",
+            "puntos": 103,
+            "brandLogo": "https://media.formula1.com/content/dam/fom-website/teams/2023/mclaren-logo.png.transform/2col/image.png",
+            "pilotos": [
+                {
+                    "id": 9,
+                    "nombre": "Lando Norris",
+                    "edad": 23,
+                    "nacionalidad": "Británica"
+                },
+                {
+                    "id": 10,
+                    "nombre": "Oscar Piastri",
+                    "edad": 22,
+                    "nacionalidad": "Australiano"
+                }
+            ]
+        }
+    ]
+}
