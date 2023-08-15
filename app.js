@@ -33,7 +33,7 @@ function renderizarEquipos(equiposArray) {
             <div class="col-12 col-md-6 ">
                 <div class=" d-flex-column " style="border: 1px solid black">
                     <div class="row p-4">
-                        <div class="col-7 col-sm-8 col-xxl-9" >
+                        <div class="col-7 col-sm-8 col-xxl-9 align-self-center" >
                             <h1>${equipo.id}</h1>
                         </div>
                         <div class="col-5 col-sm-4 col-xxl-3 " >
@@ -42,7 +42,7 @@ function renderizarEquipos(equiposArray) {
                     </div>
                     <hr/>
                     <div class="row p-4">
-                        <div class="col-8 col-sm-8 col-xxl-10">
+                        <div class="col-8 col-sm-8 col-xxl-10 align-self-center">
                             <h2>${equipo.nombre}</h2>
                         </div>
                         <div class="col-4 col-sm-4 col-xxl-2">
@@ -50,7 +50,7 @@ function renderizarEquipos(equiposArray) {
                         </div>
                     </div>
                     <hr/>
-                    <div class="row p-4">
+                    <div class="row p-4 align-self-center">
                         <div class="col-7 col-sm-8 col-xxl-6 ">
                             <h2>${piloto1}</h2>
                         </div>
